@@ -2,5 +2,9 @@ body{
     background-color: slategrey;
 }
 h1{
-    color:white;
+    color:black;
+    font-family:jazz LET, fantasy;
+}
+p{
+    color:whitesmoke;
 }
