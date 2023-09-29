@@ -4,7 +4,17 @@ body{
 h1{
     color:black;
     font-family:jazz LET, fantasy;
+    text-align: center;
+    text-shadow:2px 1px 1px white;
+    
 }
 p{
     color:whitesmoke;
+    text-align: center;
+}
+ul{
+    text-align: center;
+    color: black;
+    list-style-position: inside;
+    list-style-type: circle;
 }
